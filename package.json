@@ -1,0 +1,16 @@
+{
+  "name": "neofinancial",
+  "version": "1.0.0",
+  "description": "Currency Conversion Application",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "node test.js"
+  },
+  "author": "github.com/gauravgarg26",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.4.0",
+    "json2csv": "^6.0.0-alpha.2"
+  }
+}
